@@ -1,7 +1,7 @@
 {
-    "name": "MODULE",
+    "name": "Maths & Physics Python",
     
-    "image": "ghcr.io/socstech/MODULE:latest",
+    "image": "ghcr.io/socstech/mandp:latest",
 
     //"build": { "dockerfile": "Dockerfile" },
 
